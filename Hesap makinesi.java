@@ -36,7 +36,7 @@ public class main {
                 System.out.println("Çarpma : " + sonuc);
                 break;
             default:
-                System.out.println("1,2,3,4 Dışında değer girdiniz.");
+                System.out.println("Yanlış değer girdiniz.");
                 break;
         }
     }
